@@ -7,6 +7,6 @@ Hello world! Hello Git!
 Hello world! Hello Git!
 Hello world! Hello Git!
 Hello world! Hello Git!
-Hello world! Hello Git!
+Hello world! Hello Git! hot-fix test
 Hello world! Hello Git!
 the last row
